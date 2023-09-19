@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "273107133614",
+    "project_id": "probandoandroidjjg",
+    "storage_bucket": "probandoandroidjjg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273107133614:android:130471eface1374958b93f",
+        "android_client_info": {
+          "package_name": "com.example.turistiandov2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZoC-SJ5GLyx4M6kDmkUZ2RlME61WbyO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
